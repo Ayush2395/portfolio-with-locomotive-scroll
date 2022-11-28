@@ -1,0 +1,6 @@
+.btn {
+  width: 100%;
+  border: 10px double var(--dark-color);
+  font-size: 1.3rem;
+  cursor: pointer;
+}
